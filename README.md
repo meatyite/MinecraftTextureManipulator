@@ -1,6 +1,6 @@
 # MinecraftTextureManipulator
 ![Screenshot](https://i.imgur.com/mtJSQ13.png)
-[Download latest release here](https://github.com/sl4vkek/MinecraftTextureManipulator/releases/tag/0.0.1)
+[Download latest release here](https://github.com/sl4vkek/MinecraftTextureManipulator/releases/tag/0.0.1)<br/>
 Manipulates minecraft textures
 ## Instructions
 1) You'll need to go to `%appdata%/.minecraft/versions`, select the version you want to manipulate textures, select the .jar file and use WinRAR with the option `extract to <foldername>/...`<br/>
